@@ -1,6 +1,6 @@
 {
-	"name" : "Ban",
-	"description" : "Ban Town Portal.",
+	"name" : "Disable",
+	"description" : "Disables the Town Portal.",
 	"author" : "Droidik",
 	"version" : "1.0",
 	"modType" : "Spells",

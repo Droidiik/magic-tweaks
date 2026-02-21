@@ -1,6 +1,6 @@
 {
 	"name" : "All magic schools",
-	"description" : "Town Portal for all magic schools.",
+	"description" : "Enables the Town Portal for all magic schools.",
 	"author" : "Droidik",
 	"version" : "1.0",
 	"modType" : "Spells",
@@ -8,7 +8,7 @@
 		"min" : "1.7.0"
 	},
 	"conflicts" : [
-		"magic-tweaks.townportal.ban"
+		"magic-tweaks.townportal.disable"
 	],
 	"spells" : [
 		"townPortal.json"

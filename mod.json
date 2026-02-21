@@ -1,7 +1,7 @@
 {
 	"name" : "Magic Tweaks",
-	"description" : "A simple magic tweak mod.",
 	"author" : "Droidik",
+	"description" : "<h1>Magic Tweaks</h1><p>A simple magic tweak mod.</p><p>Currently includes the following options:</p><ul><li><strong>Town Portal</strong><ul><li>Enable for all magic schools</li><li>Disable completely</li></ul></li><li><strong>Dimension Door</strong><ul><li>Move to the Fire Magic school</li></ul></li></ul>",
 	"version" : "1.0",
 	"modType" : "Spells",
 	"compatibility" : {
