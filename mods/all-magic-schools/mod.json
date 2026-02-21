@@ -8,7 +8,7 @@
 		"min" : "1.7.0"
 	},
 	"conflicts" : [
-		"townportal-tweaks.townportal-for-nobody"
+		"townportal-tweaks.townportal-ban"
 	],
 	"spells" : [
 		"townPortal.json"
