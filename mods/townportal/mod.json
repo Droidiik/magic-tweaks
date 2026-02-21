@@ -1,0 +1,10 @@
+{
+	"name" : "Town Portal Tweaks",
+	"author" : "Droidik",
+	"version" : "1.0",
+	"modType" : "Spells",
+	"compatibility" : {
+		"min" : "1.7.0"
+	},
+	"keepDisabled" : true
+}

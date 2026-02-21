@@ -1,17 +1,14 @@
 {
-	"name" : "Ban",
-	"description" : "Ban Town Portal.",
+	"name" : "Fire magic Dimension Door",
+	"description" : "...",
 	"author" : "Droidik",
 	"version" : "1.0",
 	"modType" : "Spells",
 	"compatibility" : {
 		"min" : "1.7.0"
 	},
-	"conflicts" : [
-		"townportal-tweaks.all-magic-schools"
-	],
 	"keepDisabled" : true,
 	"spells" : [
-		"townPortal.json"
+		"dimensionDoor.json"
 	]
 }
