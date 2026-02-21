@@ -1,6 +1,6 @@
 {
-	"name" : "Spell Tweaks",
-	"description" : "A simple mod that enables Town Portal for all magic schools or completely disables it.",
+	"name" : "Magic Tweaks",
+	"description" : "A simple magic tweak mod.",
 	"author" : "Droidik",
 	"version" : "1.0",
 	"modType" : "Spells",

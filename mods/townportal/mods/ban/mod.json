@@ -8,7 +8,7 @@
 		"min" : "1.7.0"
 	},
 	"conflicts" : [
-		"townportal-tweaks.townportal.allMagicSchools"
+		"magic-tweaks.townportal.allMagicSchools"
 	],
 	"keepDisabled" : true,
 	"spells" : [
