@@ -1,0 +1,17 @@
+{
+	"name" : "Ban",
+	"description" : "Ban Town Portal.",
+	"author" : "Droidik",
+	"version" : "1.0",
+	"modType" : "Spells",
+	"compatibility" : {
+		"min" : "1.7.0"
+	},
+	"conflicts" : [
+		"townportal-tweaks.townportal-for-all"
+	],
+	"keepDisabled" : true,
+	"spells" : [
+		"townPortal.json"
+	]
+}

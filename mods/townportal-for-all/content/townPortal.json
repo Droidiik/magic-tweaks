@@ -1,0 +1,10 @@
+{
+    "core:townPortal": {
+        "school": {
+            "air": true,
+            "earth": true,
+            "fire": true,
+            "water": true
+        }
+    }
+}

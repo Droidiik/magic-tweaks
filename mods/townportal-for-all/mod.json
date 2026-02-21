@@ -1,0 +1,16 @@
+{
+	"name" : "All magic schools",
+	"description" : "Town Portal for all magic schools.",
+	"author" : "Droidik",
+	"version" : "1.0",
+	"modType" : "Spells",
+	"compatibility" : {
+		"min" : "1.7.0"
+	},
+	"conflicts" : [
+		"townportal-tweaks.townportal-for-nobody"
+	],
+	"spells" : [
+		"townPortal.json"
+	]
+}
