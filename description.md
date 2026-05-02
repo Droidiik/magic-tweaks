@@ -1,4 +1,5 @@
-# Magic Tweaks
+# english
+## Magic Tweaks
 A simple magic tweak mod for [VCMI](https://github.com/vcmi/vcmi.git).
 
 Currently includes the following options:
